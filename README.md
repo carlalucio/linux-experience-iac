@@ -19,3 +19,5 @@ Criação de Script para provisionamento de Infraestrutua com os seguintes requi
 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
+
+Script:<a href="iacl.sh"> :link:</a> 
