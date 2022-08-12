@@ -6,7 +6,7 @@
 Mentor: **Denilson Bonatti**
 
 
-## Projeto 1 : Script para IaC - Infraestrutura como Código
+## <a style="text-decoration = none"> Projeto 1 : Script para IaC - Criação dos Diretórios, Grupos e Usuários </a>
 
 Criação de Script para provisionamento de Infraestrutua com os seguintes requisitos:
 
@@ -20,4 +20,4 @@ Criação de Script para provisionamento de Infraestrutua com os seguintes requi
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
 
-Script:<a href="iacl.sh"> :link:</a> 
+Link para o Script:<a href="iacl.sh"> :link:</a> 
