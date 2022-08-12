@@ -10,7 +10,7 @@ Mentor: **Denilson Bonatti**
 Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. Sendo assim, toda nova máquina virtual que for iniciada já estará pronta para uso quando o script for executado.
 Criação de Script para provisionamento de Infraestrutua com os seguintes requisitos:
 
-<img src="imagens/mapa-script.png" width="550" height="350">
+<img src="imagens/mapa-script.png" width="400" height="250">
 
 **Definições:**
 - Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
