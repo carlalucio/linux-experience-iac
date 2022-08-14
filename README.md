@@ -37,3 +37,21 @@ Neste projeto iremos criar um script onde será provisionado um servidor web aut
 - Subir arquivo de script para um repositório no GitHub.
 
 Link para o Script:<a href="scripts/script-iac-servidor-web.sh"> :link:</a> 
+
+
+## <a href="toshiro-shibakita/"> Projeto 3 : Docker: Utilização prática no cenário de Microsserviços </a>
+
+Nesse projeto utilizamos a tecnologia de Contêineres para criação de uma aplicação em PHP, comunicação com Banco de Dados MySQL e Proxy NGNIX para balanceamento de carga. Utilizando o conceito de Microsserviços, tudo foi disponilizado em Contêineres.
+
+**Definições:**
+- Executar 3 instâncias na AWS
+- Instalação do Docker 
+- Criar um contêiner MySQL e Volume
+- Criar um contênier App e Volume
+- Iniciar um cluster Swarm
+- Criar o serviço app no Cluster 
+- Replicar o Volume App dentro do Cluster
+- Criar um proxy utilizando NGNIX
+- Estressar o Cluster com Loader.io
+
+Link para os Arquivos utilizados:<a href="toshiro-shibakita/"> :link:</a> 
